@@ -1,3 +1,4 @@
+```
 alex@alex-Legion-5-15ACH6:~/OneDrive/lab/courses/advanced-git-exercises$ git status
 On branch main
 Your branch is up to date with 'origin/main'.
@@ -166,3 +167,4 @@ Your branch is up to date with 'upstream/main'.
 alex@alex-Legion-5-15ACH6:~/OneDrive/lab/courses/advanced-git-exercises$ git pull --rebase
 Already up to date.
 
+```
