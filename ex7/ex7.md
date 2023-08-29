@@ -1,3 +1,4 @@
+```
 alex@alex-Legion-5-15ACH6:~/OneDrive/lab/courses/git-practice/advanced-git-exercises$ git status
 On branch exercise7
 Your branch is up to date with 'origin/exercise7'.
@@ -108,3 +109,4 @@ alex@alex-Legion-5-15ACH6:~/OneDrive/lab/courses/git-practice/advanced-git-exerc
 a0c2c83 (master) new updates added to master
 43388fe (origin/master, origin/exercise7, origin/exercise4, origin/exercise2, origin/HEAD) Initial commit
 
+```
