@@ -1,3 +1,4 @@
+```
 alex@alex-Legion-5-15ACH6:~/OneDrive/lab/git-practice/advanced-git-exercises$ git checkout exercise6
 Branch 'exercise6' set up to track remote branch 'exercise6' from 'origin'.
 Switched to a new branch 'exercise6'
@@ -193,3 +194,4 @@ alex@alex-Legion-5-15ACH6:~/OneDrive/lab/git-practice/advanced-git-exercises$ gi
 |     Currently, hello.txt contains both Spanish and English.
 |     Let's replace Hola with a [greeting] token, and Mundo
 |     with a [noun] token. That way, we can localize hello.txt for
+```
