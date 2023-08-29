@@ -1,4 +1,4 @@
-alex@alex-Legion-5-15ACH6:~/OneDrive/lab/courses/advanced-git-exercises$ git branch
+```alex@alex-Legion-5-15ACH6:~/OneDrive/lab/courses/advanced-git-exercises$ git branch
   exercise2
   exercise3
   exercise4
@@ -143,3 +143,4 @@ alex@alex-Legion-5-15ACH6:~/OneDrive/lab/courses/advanced-git-exercises$ git log
 88f6e28 (upstream/exercise9) Adding bash, python, and java code examples
 43388fe (upstream/master, upstream/exercise7, upstream/exercise4, upstream/exercise2, upstream/HEAD, origin/master, master) Initial commit
 
+```
